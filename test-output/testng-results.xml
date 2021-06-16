@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73194" started-at="2019-09-27T06:33:47Z" finished-at="2019-09-27T06:35:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73194" started-at="2019-09-27T06:33:47Z" finished-at="2019-09-27T06:35:00Z">
+      <class name="com.testCases.Test123">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:com.testCases.Test123@1690aa4]" name="OpenBrowser" is-config="true" duration-ms="10487" started-at="2019-09-27T12:03:36Z" finished-at="2019-09-27T12:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="tetscase123(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testCases.Test123@1690aa4]" name="tetscase123" duration-ms="27395" started-at="2019-09-27T12:03:48Z" data-provider="getdata" finished-at="2019-09-27T12:04:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LastName1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.97654321E8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Name1@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Name1]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[tester1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetscase123 -->
+        <test-method status="PASS" signature="tetscase123(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testCases.Test123@1690aa4]" name="tetscase123" duration-ms="22499" started-at="2019-09-27T12:04:15Z" data-provider="getdata" finished-at="2019-09-27T12:04:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LastName2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.97654322E8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Name2@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Name2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[tester2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetscase123 -->
+        <test-method status="PASS" signature="tetscase123(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testCases.Test123@1690aa4]" name="tetscase123" duration-ms="22409" started-at="2019-09-27T12:04:37Z" data-provider="getdata" finished-at="2019-09-27T12:05:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LastName3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8.97654323E8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Name3@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Name3]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[tester3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tetscase123 -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:com.testCases.Test123@1690aa4]" name="CloseBrowser" is-config="true" duration-ms="1222" started-at="2019-09-27T12:05:00Z" finished-at="2019-09-27T12:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.testCases.Test123 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
